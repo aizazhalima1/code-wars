@@ -20,3 +20,4 @@ function betterThanAverage(classPoints, yourPoints) {
     else{
       return false
     }
+}
