@@ -3,7 +3,6 @@
 
 
 
-
 //Solution
 function digPow(n, p){
     // ...

@@ -9,6 +9,5 @@
 //Solution
 var isSquare = function(n){
     return Number.isInteger((Math.pow(n,0.5))) || Number>=0 ? true : false
-    return false; // fix me
-    
+    return false;
   }
